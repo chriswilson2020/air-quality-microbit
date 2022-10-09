@@ -1,4 +1,4 @@
-kitronik_air_quality.setTime(16, 19, 0)
+kitronik_air_quality.setTime(17, 26, 0)
 kitronik_air_quality.setDate(9, 10, 2022)
 kitronik_air_quality.setupGasSensor()
 kitronik_air_quality.calcBaselines()
